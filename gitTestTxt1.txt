@@ -3,4 +3,3 @@ first.
 second.
 Git tracks changes.
 GIt tracks changes again.
-new test.
