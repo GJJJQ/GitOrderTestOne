@@ -3,3 +3,4 @@ first.
 second.
 Git tracks changes.
 GIt tracks changes again.
+Cerating a new branch is quick & simple.
