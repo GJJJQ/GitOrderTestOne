@@ -2,3 +2,4 @@ This is a gitTestTxt,
 first.
 second.
 Git tracks changes.
+GIt tracks changes again.
